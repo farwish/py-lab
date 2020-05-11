@@ -1,5 +1,5 @@
 ##
-# list-extend.py
+# list-merge.py
 #
 # 合并、去重、存在检测
 ##
